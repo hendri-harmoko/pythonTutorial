@@ -1,3 +1,5 @@
+#copied from openfile.py
+
 # Initialize my data variable
 data = []
 
